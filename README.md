@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - :chart_with_upwards_trend: 2021 goals: becoming an android developer at tinkoff
 - :white_check_mark: accomplished goals : 
   1. Entering tinkoff sirius educational program 🧑‍🎓
-  2. DeepSpace wins Samsung Android Bootcamp 2021 :trophy:
+  2. DeepSpace wins Samsung Android Bootcamp 2021 :trophy: 
 -->
