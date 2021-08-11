@@ -18,7 +18,8 @@ Hi there, I'm Yana Glad
   * DeepSpace wins Samsung Android Bootcamp 2021 🏆
 
 
-- 📫 You can contact me via [my vk](https://vk.com/yanaglad12)
+- 📫 You can contact me via 
+
 [<img src="https://sun9-20.userapi.com/impg/L7z1gPOWmHLRLFDIhqWWs0ZQrjdkf8X9NKJpXQ/JmuJI4fpySU.jpg?size=192x57&quality=96&sign=a77c227f428f1dbe867cab4cae79d5a6&type=album" />](https://vk.com/yanaglad12)
 
 <!--
