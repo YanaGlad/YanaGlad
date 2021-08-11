@@ -20,9 +20,9 @@ Hi there, I'm Yana Glad
 
 - 📫 You can contact me via 
  
-[<img src="https://sun9-34.userapi.com/impg/K-4HxC1iWLbAQKW5aCikjkANBYJ_oLm82Sd4BQ/bF1EyMUevBI.jpg?size=230x68&quality=96&sign=78d7aac7dea1759b957156ccc22205e0&type=album" />](https://vk.com/yanaglad12)
+[<img src="https://sun9-73.userapi.com/impg/RrU_MJWRUtYCga7gNQ71janNPGSkSe11MhrM9A/ikkclIMqQ84.jpg?size=34x38&quality=96&sign=c78d010628b7ea344a014f227c2142d0&type=album" />](https://vk.com/yanaglad12)
 
-[<img src="https://sun9-45.userapi.com/impg/fR58hHh5Dm1zYusPt0ZarOUAGPcl5EDNcjoCtA/zn2cgxhRVh4.jpg?size=200x50&quality=96&sign=c44c85e3a41c9c7f090ad5b04a75ea31&type=album" />](https://t.me/YanaGlad121)
+[<img src="https://sun9-74.userapi.com/impg/BwEt1fAevKprC2gYOnBeuwd_lpHCwwEzAIEXRQ/ZqWQZe_KizU.jpg?size=34x38&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album" />](https://t.me/YanaGlad121)
 
 <!--
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
