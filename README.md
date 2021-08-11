@@ -4,16 +4,16 @@ Hi there, I'm Yana Glad
 - 🔥 I’m currently on a trip to Sirius
 
 - 🔜 2021 goals: 
-  1. Going to the first business trip to another city ever ✈️
-  2. Becoming an android developer at tinkoff 💲
-  3. Presenting DeepSpace to Google Play 📈
-  4. Continue to study Deep Learning at MIPT ⭐
+  I. Going to the first business trip to another city ever ✈️
+  II. Becoming an android developer at tinkoff 💲
+  III. Presenting DeepSpace to Google Play 📈
+  IV. Continue to study Deep Learning at MIPT ⭐
 
 - ✔️ Accomplished 2021 goals : 
-  1. Entering tinkoff sirius educational program 🎓
-  2. Learned to use kotlin 👨‍💻
-  3. First team work experience 📊
-  4. DeepSpace wins Samsung Android Bootcamp 2021 🏆
+  I. Entering tinkoff sirius educational program 🎓
+  II. Learned to use kotlin 👨‍💻
+  III. First team work experience 📊
+  IV. DeepSpace wins Samsung Android Bootcamp 2021 🏆
 
 
 - 📫 You can contact me via [my vk](https://vk.com/yanaglad12)
