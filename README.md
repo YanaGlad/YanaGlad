@@ -20,7 +20,7 @@ Hi there, I'm Yana Glad
 
 - 📫 You can contact me via 
  
-[<img src="https://sun9-20.userapi.com/impg/L7z1gPOWmHLRLFDIhqWWs0ZQrjdkf8X9NKJpXQ/JmuJI4fpySU.jpg?size=192x57&quality=96&sign=a77c227f428f1dbe867cab4cae79d5a6&type=album" />](https://vk.com/yanaglad12)
+[<img src="https://sun9-34.userapi.com/impg/K-4HxC1iWLbAQKW5aCikjkANBYJ_oLm82Sd4BQ/bF1EyMUevBI.jpg?size=230x68&quality=96&sign=78d7aac7dea1759b957156ccc22205e0&type=album" />](https://vk.com/yanaglad12)
 
 [<img src="https://sun9-45.userapi.com/impg/fR58hHh5Dm1zYusPt0ZarOUAGPcl5EDNcjoCtA/zn2cgxhRVh4.jpg?size=200x50&quality=96&sign=c44c85e3a41c9c7f090ad5b04a75ea31&type=album" />](https://t.me/YanaGlad121)
 
