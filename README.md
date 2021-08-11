@@ -22,7 +22,7 @@ Hi there, I'm Yana Glad
  
 [<img src="https://sun9-20.userapi.com/impg/L7z1gPOWmHLRLFDIhqWWs0ZQrjdkf8X9NKJpXQ/JmuJI4fpySU.jpg?size=192x57&quality=96&sign=a77c227f428f1dbe867cab4cae79d5a6&type=album" />](https://vk.com/yanaglad12)
 
-[<img src="https://sun9-15.userapi.com/impg/WY64L8bZjAHjWOoumDIVtJwfFbpTDpok8pgXMA/PPn0cur8FQo.jpg?size=200x58&quality=96&sign=f68899d455206695a0d0183fd98afad2&type=album", width = 100/>](https://t.me/YanaGlad121)
+[<img src="https://sun9-15.userapi.com/impg/WY64L8bZjAHjWOoumDIVtJwfFbpTDpok8pgXMA/PPn0cur8FQo.jpg?size=200x58&quality=96&sign=f68899d455206695a0d0183fd98afad2&type=album", width = "100" />](https://t.me/YanaGlad121)
 
 <!--
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
