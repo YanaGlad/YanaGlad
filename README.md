@@ -8,8 +8,8 @@ Hi there, I'm Yana Glad
   * Becoming an android developer at tinkoff 💵
   * Presenting DeepSpace to Google Play 📈
   * Continue to study Deep Learning at MIPT ⭐
-  * Study Maths that will be needed in my future scientific application
-  * Creating Python library for astrophysics computations 
+  * Study Maths that will be needed in my future scientific application 🪐
+  * Creating Python library for astrophysics computations 🌌
 
 - ✔️ Accomplished 2021 goals : 
   * Entered tinkoff sirius educational program 🎓
@@ -19,6 +19,7 @@ Hi there, I'm Yana Glad
 
 
 - 📫 You can contact me via [my vk](https://vk.com/yanaglad12)
+[<img src="https://sun9-20.userapi.com/impg/L7z1gPOWmHLRLFDIhqWWs0ZQrjdkf8X9NKJpXQ/JmuJI4fpySU.jpg?size=192x57&quality=96&sign=a77c227f428f1dbe867cab4cae79d5a6&type=album" width="25"/>](https://vk.com/yanaglad12)
 
 <!--
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
