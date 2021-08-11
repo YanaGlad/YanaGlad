@@ -1,7 +1,7 @@
 Hi there, I'm Yana Glad
 
 - :rocket: I’m currently working on [DeepSpace App](https://github.com/BrightOS/NASA_Bootcamp)
-- 🔥 I’m currently learning High Mathematics, Kotlin, openGL and ML
+- 🔥  I’m currently learning High Mathematics, Kotlin, openGL and ML
 - 📫 How to reach me: contact me via [my vk](https://vk.com/yanaglad12)
 - :chart_with_upwards_trend: 2021 goals: becoming an android developer at tinkoff
 - ✔️ accomplished goals : 
