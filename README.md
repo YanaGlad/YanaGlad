@@ -5,7 +5,6 @@ Hi there, I'm Yana Glad
 - 🌎 Going to present DeepSpace to Google Play right after returning back from Sirius trip
 
 - 🔜 2021 goals: 
-  * Going to the first business trip to another city ever ✈️
   * Becoming an android developer at tinkoff 💵
   * Presenting DeepSpace to Google Play 📈
   * Continue to study Deep Learning at MIPT ⭐
