@@ -1,6 +1,6 @@
 Hi there, I'm Yana Glad
 
-- 💲 I’m currently working on [KoshelOK app](https://github.com/YanaGlad/GladkikhVlasovTinkoff)
+- 💲 I’m currently working on [DeepSapce app](https://github.com/BrightOS/NASA_Bootcamp)
 - 🔥 I’m currently on a trip to Sirius
 - 🌎 Going to present DeepSpace to Google Play right after returning back from Sirius trip
 
