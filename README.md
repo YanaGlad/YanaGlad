@@ -1,7 +1,7 @@
 Hi there, I'm Yana Glad
 
 - 💲 I’m currently working on [DeepSpace app](https://github.com/BrightOS/NASA_Bootcamp)
-- 🔥 I’m currently on a trip to Sirius
+- 🔥 I’m currently preparing for the interview
 - 🌎 Going to present DeepSpace to Google Play right after returning back from Sirius trip
 
 - 🔜 2021 goals: 
