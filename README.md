@@ -5,7 +5,7 @@ Hi there, I'm Yana Glad
 - 🌎 Going to present DeepSpace to Google Play  
 
 - 🔜 2021 goals: 
-  * Presenting DeepSpace to Google Play 📈
+  * Presenting DeepSpace to Google Play on 25th of September📈
   * Continue to study Deep Learning at MIPT ⭐
   * Study Maths that will be needed in my future scientific application 🪐
   * Creating Python library for astrophysics computations 🌌
