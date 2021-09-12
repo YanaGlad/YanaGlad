@@ -11,6 +11,8 @@ Hi there, I'm Yana Glad
   * Creating Python library for astrophysics computations 🌌
 
 - ✔️ Accomplished 2021 goals : 
+  * Entered tinkoff fintech 🎓
+  * Successfully finished Sirius educational program 🎓
   * Entered tinkoff sirius educational program 🎓
   * Learned to use Kotlin 👨‍💻
   * First team work experience 📊
