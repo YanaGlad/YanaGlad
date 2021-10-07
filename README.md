@@ -1,8 +1,27 @@
 Hi there, I'm Yana Glad
 
 - 🚀 I’m currently working on [DeepSpace app](https://github.com/BrightOS/NASA_Bootcamp) and [Metrix](https://github.com/Giksengik/Metrix)
-- 🔥 Android Developer in Tinkoff!
+- 💲 Android Developer in Tinkoff!
 - 🌎 Going to present DeepSpace to Google Play  
+
+🔥 Developments stack :
+- [DeepSpace app](https://github.com/BrightOS/NASA_Bootcamp) - An application for space-lovers. Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
+
+- [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
+
+- [CatUniverse](https://github.com/YanaGlad/CatUniverse) - Game made with own engine. Game engine can be used as a separate component for creating other games. You can play 3 types of levels : time, strategy and maths. In time levels you have to pass through obstacles on time, in strategy ones you need to put players on the map so they are able to defeat enemies, in mathematic levels you need to catch correct answers for the given expression 
+
+- [ClientsAnalyze](https://github.com/YanaGlad/ClientsAnalyze) - Machine Learning task for analyzing clients. Find MSE, F1, Roc-auc. Using Logistic Regression model
+
+- [Developers Life](https://github.com/YanaGlad/YanaGladDevelopersLife) - An application for viewing funny memes about developers life. Made as qualifying task for tinkoff 
+
+- [GladPainttool](https://github.com/YanaGlad/GladPainttool) - Simple desktop paintool made with Java 
+
+- [Metrix](https://github.com/Giksengik/Metrix) - a mobile application for OC Android, aimed at small and medium-sized businesses. It is an information system with a real-time assessment of personnel competencies.
+
+- [MathUltra](https://github.com/sabudilovskiy/MathUltra) - An application made in a team with [Sabudilovskiy](https://github.com/sabudilovskiy). Helps students to deal with complicated algebra tasks providing detailed solution. 
+
+- [Gradient Optimization] (https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
 
 GitLab : https://gitlab.com/YanaGlad
 
