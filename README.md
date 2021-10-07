@@ -21,7 +21,7 @@ Hi there, I'm Yana Glad
 
 - [MathUltra](https://github.com/sabudilovskiy/MathUltra) - An application made in a team with [Sabudilovskiy](https://github.com/sabudilovskiy). Helps students to deal with complicated algebra tasks providing detailed solution. 
 
-- [Gradient Optimization] (https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
+- [Gradient Optimization](https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
 
 GitLab : https://gitlab.com/YanaGlad
 
