@@ -25,7 +25,7 @@ Hi there, I'm Yana Glad
 
 - [ContactsService](https://github.com/YanaGlad/ContactsService) - Contacts provider. Good example of using Service + BroadcastReceiver + Activity Result API.
 
-- [Emoji FlexBox Layout](https://github.com/YanaGlad/EmojiFlexBoxLayout) - FlexBoxLayout for emoji in messengers
+- [Fintech Messenger](https://github.com/YanaGlad/FintechMessenger) - Messenger using custom views
 
 - [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
 
