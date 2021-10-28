@@ -1,9 +1,5 @@
 Hi there, I'm Yana Glad
 
-- 🚀 I’m currently working on [DeepSpace app](https://github.com/BrightOS/NASA_Bootcamp) and [Metrix](https://github.com/Giksengik/Metrix)
-- 💲 Android Developer in Tinkoff!
-- 🌎 Going to present DeepSpace to Google Play  
-
 🔥 Developments stack :
 - [DeepSpace](https://github.com/BrightOS/NASA_Bootcamp) - An application for space-lovers. Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
 
