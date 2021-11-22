@@ -15,21 +15,14 @@ Get info about DeepSpace : https://drive.google.com/drive/folders/1gEk4de_Mad_jg
 
 - [Developers Life](https://github.com/YanaGlad/YanaGladDevelopersLife) - An application for viewing funny memes about developers life. Made as qualifying task for tinkoff 
 
-- [GladPainttool](https://github.com/YanaGlad/GladPainttool) - Simple desktop paintool made with Java 
-
 - [Metrix](https://github.com/Giksengik/Metrix) - a mobile application for OC Android, aimed at small and medium-sized businesses. It is an information system with a real-time assessment of personnel competencies.
 
 - [MathUltra](https://github.com/sabudilovskiy/MathUltra) - An application made in a team with [Sabudilovskiy](https://github.com/sabudilovskiy). Helps students to deal with complicated algebra tasks providing detailed solution. 
 
 - [Gradient Optimization](https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
 
-- [ContactsService](https://github.com/YanaGlad/ContactsService) - Contacts provider. Good example of using Service + BroadcastReceiver + Activity Result API.
-
 - [Fintech Messenger](https://github.com/YanaGlad/FintechMessenger) - Messenger using custom views
-
-- [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
-
-- [Ivoices](https://github.com/YanaGlad/Invoices) + [Jooq Edition](https://github.com/YanaGlad/InvoicesJooq) - An example of creating application using Postgresql, creating unit test + Jooq library
+ 
 
 GitLab : https://gitlab.com/YanaGlad
 
@@ -38,6 +31,16 @@ GitLab : https://gitlab.com/YanaGlad
 <!--
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+- [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
+
+- [Ivoices](https://github.com/YanaGlad/Invoices) + [Jooq Edition](https://github.com/YanaGlad/InvoicesJooq) - An example of creating application using Postgresql, creating unit test + Jooq library
+
+- [GladPainttool](https://github.com/YanaGlad/GladPainttool) - Simple desktop paintool made with Java 
+
+- [ContactsService](https://github.com/YanaGlad/ContactsService) - Contacts provider. Good example of using Service + BroadcastReceiver + Activity Result API.
+
+!!!!! CHANGE README 
 Here are some ideas to get you started:
 
  
