@@ -2,8 +2,6 @@ Hi there, I'm Yana Glad
 
 DeepSpace in Google Play!!!
 
-Get info about DeepSpace : https://drive.google.com/drive/folders/1gEk4de_Mad_jg3KE3R9Ts264D3SHK_X7?usp=sharing
-
 🔥 Developments stack :
 - [DeepSpace](https://github.com/BrightOS/NASA_Bootcamp) - An application for space-lovers. Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
 
