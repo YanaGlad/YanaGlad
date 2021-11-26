@@ -7,7 +7,7 @@ DeepSpace in Google Play!!!
 
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
 
-- [CatUniverse](https://github.com/YanaGlad/CatUniverse) - Game made with own engine. Game engine can be used as a separate component for creating other games. You can play 3 types of levels : time, strategy and maths. In time levels you have to pass through obstacles on time, in strategy ones you need to put players on the map so they are able to defeat enemies, in mathematic levels you need to catch correct answers for the given expression 
+- [CatUniverse](https://github.com/YanaGlad/CatUniverse) - Game made with own engine. Game engine can be used as a separate component for creating other games. You can play 3 types of levels : time, strategy and maths. 
 
 - [ClientsAnalyze](https://github.com/YanaGlad/ClientsAnalyze) - Machine Learning task for analyzing clients. Find MSE, F1, Roc-auc. Using Logistic Regression model
 
