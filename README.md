@@ -3,6 +3,9 @@ Hi there, I'm Yana Glad
 DeepSpace in Google Play!!!
 
 🔥 Developments stack :
+
+[<img src = "https://avatars.githubusercontent.com/u/92802541?s=200&v=4?size=34x38&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
+
 - [DeepSpace](https://github.com/BrightOS/NASA_Bootcamp) - An application for space-lovers. Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
 
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
