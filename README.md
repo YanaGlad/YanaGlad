@@ -4,7 +4,8 @@ DeepSpace in Google Play!!!
 
 🔥 Developments stack :
 
- [DeepSpace](hhttps://github.com/BrightOS/DeepSpace) 
+ [DeepSpace](hhttps://github.com/BrightOS/DeepSpace)
+ 
 [<img src = "https://avatars.githubusercontent.com/u/92802541?s=100&v=4?size=14x18&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
 
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
