@@ -4,7 +4,7 @@ DeepSpace in Google Play!!!
 
 🔥 Developments stack :
 
-[<img src = "https://avatars.githubusercontent.com/u/92802541?s=200&v=4?size=34x38&quality=36&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
+[<img src = "https://avatars.githubusercontent.com/u/92802541?s=200&v=4?size=14x18&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
 
 - [DeepSpace](https://github.com/BrightOS/NASA_Bootcamp) - An application for space-lovers. Dive into the world of space! Read space news, communicate with the other space-lovers and always know where planets are located at the current moment by using space navigator!
 
