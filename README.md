@@ -1,7 +1,5 @@
 Hi there, I'm Yana Glad
 
-DeepSpace in Google Play!!!
-
 🔥 Developments stack :
 
 [DeepSpace](https://github.com/BrightOS/DeepSpace)
