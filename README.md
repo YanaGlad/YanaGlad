@@ -2,7 +2,7 @@ Hi there, I'm Yana Glad
 
 🔥 Developments stack :
 
-[DeepSpace](https://github.com/BrightOS/DeepSpace) CatUniverse TFSMessenger MathsUltra Metrix
+[DeepSpace](https://github.com/BrightOS/DeepSpace) 
  
 [<img src = "https://avatars.githubusercontent.com/u/92802541?s=100&v=4?size=14x18&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
 
