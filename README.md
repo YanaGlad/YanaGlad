@@ -6,6 +6,17 @@ Hi there, I'm Yana Glad
  
 [<img src = "https://avatars.githubusercontent.com/u/92802541?s=100&v=4?size=14x18&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
 
+GitLab : https://gitlab.com/YanaGlad
+
+[<img src="https://sun9-73.userapi.com/impg/RrU_MJWRUtYCga7gNQ71janNPGSkSe11MhrM9A/ikkclIMqQ84.jpg?size=34x38&quality=96&sign=c78d010628b7ea344a014f227c2142d0&type=album" />](https://vk.com/yanaglad12) [<img src="https://sun9-74.userapi.com/impg/BwEt1fAevKprC2gYOnBeuwd_lpHCwwEzAIEXRQ/ZqWQZe_KizU.jpg?size=34x38&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album" />](https://t.me/YanaGlad121)
+
+<!--
+**YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+!!!!! CHANGE README 
+Here are some ideas to get you started:
+
+
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
 
 - [CatUniverse](https://github.com/YanaGlad/CatUniverse) - Game made with own engine. Game engine can be used as a separate component for creating other games. You can play 3 types of levels : time, strategy and maths. 
@@ -30,17 +41,5 @@ Hi there, I'm Yana Glad
 - [GladPainttool](https://github.com/YanaGlad/GladPainttool) - Simple desktop paintool made with Java 
 
 - [ContactsService](https://github.com/YanaGlad/ContactsService) - Contacts provider. Good example of using Service + BroadcastReceiver + Activity Result API.
-
-GitLab : https://gitlab.com/YanaGlad
-
-[<img src="https://sun9-73.userapi.com/impg/RrU_MJWRUtYCga7gNQ71janNPGSkSe11MhrM9A/ikkclIMqQ84.jpg?size=34x38&quality=96&sign=c78d010628b7ea344a014f227c2142d0&type=album" />](https://vk.com/yanaglad12) [<img src="https://sun9-74.userapi.com/impg/BwEt1fAevKprC2gYOnBeuwd_lpHCwwEzAIEXRQ/ZqWQZe_KizU.jpg?size=34x38&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album" />](https://t.me/YanaGlad121)
-
-<!--
-**YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-!!!!! CHANGE README 
-Here are some ideas to get you started:
-
-
 
 -->
