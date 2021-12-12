@@ -4,7 +4,7 @@ Hi there, I'm Yana Glad
 
 [DeepSpace](https://github.com/BrightOS/DeepSpace) 
  
-[<img src = "https://avatars.githubusercontent.com/u/92802541?s=100&v=4?size=14x18&quality=96&sign=220131f85d12016dad23b1a88ad2b554&type=album"/>](https://github.com/BrightOS/DeepSpace)
+[<img src = "https://vk.com/doc444994781_621789613?hash=7fa539f73c61ed426c&dl=d94b8f84250c065647"/>](https://github.com/BrightOS/DeepSpace)
 
 GitLab : https://gitlab.com/YanaGlad
 
