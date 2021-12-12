@@ -4,7 +4,7 @@ Hi there, I'm Yana Glad
 
 [DeepSpace](https://github.com/BrightOS/DeepSpace) 
  
-[<img src = "https://psv4.userapi.com/c237231/u444994781/docs/d19/214f98e46f7e/dss.jpg?extra=6QkfHMRF9olX7J4DKDHqYimDa8bRJyvX0JjRsksq1E9lxLWImb_9oTY3EKZ3DpJirpXVHJf7tklqyxMlk8yiSlSIJO8YZXPsYr4cTQa7azpChSLy0pJpaloy3jVfXWlScDDmcX8n-vtNnZXPQE2s532zk6s"/>](https://github.com/BrightOS/DeepSpace)
+[<img src = "https://sun9-86.userapi.com/impg/51GBeFWDETjbj0ckkdN2MYs4K3wupIFRXCu9OA/xO3ssHUc7lw.jpg?size=224x109&quality=96&sign=130f2ca4c6b14b9fbbbcea6281419161&type=album"/>](https://github.com/BrightOS/DeepSpace)
 
 GitLab : https://gitlab.com/YanaGlad
 
