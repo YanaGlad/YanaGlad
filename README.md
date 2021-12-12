@@ -3,7 +3,7 @@ Hi there, I'm Yana Glad
 🔥 Developments stack: 
 
  
-[<img src = "https://sun9-86.userapi.com/impg/51GBeFWDETjbj0ckkdN2MYs4K3wupIFRXCu9OA/xO3ssHUc7lw.jpg?size=224x109&quality=96&sign=130f2ca4c6b14b9fbbbcea6281419161&type=album"/>](https://github.com/BrightOS/DeepSpace) [<img src = "https://sun9-78.userapi.com/impg/zaQ9gXPaooRnk2LR0pRTb9mwCNTLG1JuQ1H32w/IQIo9Soqo-o.jpg?size=229x109&quality=96&sign=73d4a65d731fc3dd81aa3d531272cd14&type=album"/>](https://github.com/YanaGlad/CatUniverse)
+[<img src = "https://sun9-86.userapi.com/impg/51GBeFWDETjbj0ckkdN2MYs4K3wupIFRXCu9OA/xO3ssHUc7lw.jpg?size=224x109&quality=96&sign=130f2ca4c6b14b9fbbbcea6281419161&type=album"/>](https://github.com/BrightOS/DeepSpace) [<img src = "https://sun9-78.userapi.com/impg/zaQ9gXPaooRnk2LR0pRTb9mwCNTLG1JuQ1H32w/IQIo9Soqo-o.jpg?size=229x109&quality=96&sign=73d4a65d731fc3dd81aa3d531272cd14&type=album"/>](https://github.com/YanaGlad/CatUniverse) [<img src = "https://sun9-36.userapi.com/impg/tBTzBY90OhC-ANf1IJBHsO-zefbHcBAoyODZ5A/hY1hM59YZkU.jpg?size=209x109&quality=96&sign=853da96953bfa3dc5cf9fd95b2d4f336&type=album"/>](https://github.com/YanaGlad/KoshelOK)
 
 GitLab : https://gitlab.com/YanaGlad
 
