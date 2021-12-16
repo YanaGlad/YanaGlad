@@ -8,8 +8,6 @@ Hi there, I'm Yana Glad
 - [MathUltra](https://github.com/sabudilovskiy/MathUltra) - An application made in a team with [Sabudilovskiy](https://github.com/sabudilovskiy). Helps students to deal with complicated algebra tasks providing detailed solution. 
 
 - [Gradient Optimization](https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
-
-- [Fintech Messenger](https://github.com/YanaGlad/FintechMessenger) - Messenger using custom views
  
 - [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
 
