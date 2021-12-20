@@ -1,4 +1,4 @@
-🖐️ Hi there, I'm Yana Glad
+🚀 Hi there, I'm Yana Glad
 
 🔥 Developments stack: 
 
