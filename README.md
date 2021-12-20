@@ -1,7 +1,5 @@
 Hi there, I'm Yana Glad
 
-I am currently studying in MIREA University and working at Tinkoff as Android Developer
-
 🔥 Developments stack: 
 
  
