@@ -1,4 +1,4 @@
-Hi there, I'm Yana Glad
+👽 Hi there, I'm Yana Glad
 
 I am student in Mirea Technological University and Android Developer in Tinkoff! 🎓
 
