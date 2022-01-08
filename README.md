@@ -7,7 +7,7 @@ Download it now with QR code:
 
 <img src = "https://sun9-15.userapi.com/impg/sVVu9D9iORgJreC_0ijIys9LA4POLy2F3wAo0Q/FXrI7YgJn40.jpg?size=180x180&quality=96&sign=9b96f029c0bbc43631aac4a385a528b0&type=album"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanaGlad&show_icons=true&theme=radical)
+![Visitor Count](https : //profile-counter.glitch.me/YanaGlad/count.svg)
 
 🔥 Developments stack: 
 
@@ -58,4 +58,7 @@ Here are some ideas to get you started:
 - [ContactsService](https://github.com/YanaGlad/ContactsService) - Contacts provider. Good example of using Service + BroadcastReceiver + Activity Result API.
 
 - [MathUltra](https://github.com/sabudilovskiy/MathUltra) - An application made in a team with [Sabudilovskiy](https://github.com/sabudilovskiy). Helps students to deal with complicated algebra tasks providing detailed solution. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanaGlad&show_icons=true&theme=radical)
+
 -->
