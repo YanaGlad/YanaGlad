@@ -1,8 +1,6 @@
 👽 Hi there, I'm Yana Glad
 
 I am student in Mirea Technological University and Android Developer in Tinkoff! 🎓
-
-[![Years Badge](https://badges.pufler.dev/years/YanaGlad)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/YanaGlad)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/YanaGlad)](https://badges.pufler.dev)
  
 🚀 I am currently working on DeepSpace app for people who are into space! 
 Download it now with QR code: 
