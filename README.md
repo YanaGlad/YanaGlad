@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 - [Fintech Messenger](https://github.com/YanaGlad/FintechMessenger) - Messenger using custom views
  
+
 - [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
 
 - [Ivoices](https://github.com/YanaGlad/Invoices) + [Jooq Edition](https://github.com/YanaGlad/InvoicesJooq) - An example of creating application using Postgresql, creating unit test + Jooq library
