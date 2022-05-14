@@ -1,6 +1,6 @@
 👽 Hi there, I'm Yana Glad
 
-<img src = "https://steemitimages.com/DQmYugUe1xwjHWAFiyhtLfQ84nejiopJ7YMBogoUFWbUypB/Feb_06_2018_17_01_08.0.gif?size=400x255&quality=96&sign=9b96f029c0bbc43631aac4a385a528b0&type=album"/>
+<img src = "https://steemitimages.com/DQmYugUe1xwjHWAFiyhtLfQ84nejiopJ7YMBogoUFWbUypB/Feb_06_2018_17_01_08.0.gif?size=200x112&quality=96&sign=9b96f029c0bbc43631aac4a385a528b0&type=album"/>
  
 🎓 Student at Mirea Technological University 
 
