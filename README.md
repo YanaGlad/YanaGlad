@@ -1,6 +1,6 @@
 👽 Hi there, I'm Yana Glad
 
-<img src = "https://thumbs.gfycat.com/JubilantAcceptableIceblueredtopzebra-size_restricted.gif?size=100x56"/>
+<img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56"/>
  
 🎓 Student at Mirea Technological University 
 
