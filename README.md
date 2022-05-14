@@ -17,7 +17,7 @@ Download it now with QR code:
  
 [<img src = "https://sun9-86.userapi.com/impg/51GBeFWDETjbj0ckkdN2MYs4K3wupIFRXCu9OA/xO3ssHUc7lw.jpg?size=224x109&quality=96&sign=130f2ca4c6b14b9fbbbcea6281419161&type=album"/>](https://github.com/BrightOS/DeepSpace) [<img src = "https://sun9-36.userapi.com/impg/tBTzBY90OhC-ANf1IJBHsO-zefbHcBAoyODZ5A/hY1hM59YZkU.jpg?size=209x109&quality=96&sign=853da96953bfa3dc5cf9fd95b2d4f336&type=album"/>](https://github.com/YanaGlad/KoshelOK) [<img src = "https://sun9-78.userapi.com/impg/zaQ9gXPaooRnk2LR0pRTb9mwCNTLG1JuQ1H32w/IQIo9Soqo-o.jpg?size=229x109&quality=96&sign=73d4a65d731fc3dd81aa3d531272cd14&type=album"/>](https://github.com/YanaGlad/CatUniverse) [<img src = "https://sun9-83.userapi.com/impg/TmYayDSYOk5Jg6hYnJ-A41yY5qr1B01rD27tPA/bHpTgaaiJ1E.jpg?size=224x109&quality=96&sign=af1a8bc33a18375af0d8de56423ecf83&type=album"/>](https://github.com/Giksengik/Metrix) [<img src = "https://sun9-59.userapi.com/impg/lHEzQve0h9lFkNyxwGVi7t6JR0NT-gE0-Xo7BA/RpS14LJfWHY.jpg?size=224x109&quality=96&sign=7880642fce0df92252f8bd67d2f9edca&type=album"/>](https://github.com/YanaGlad/FintechMessenger) 
 
-## <img src = "https://statics.voz.tech/data/avatars/s/424/424428.jpg?1584210445"/> How to reach me: 
+## <img src = "https://i.gifer.com/Vp3M.gif" width="50" height="50"/> How to reach me: 
 
 [<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/YanaGlad) [<img src = "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/yanaglad12) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/YanaGlad121) 
  
