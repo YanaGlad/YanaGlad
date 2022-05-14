@@ -1,6 +1,10 @@
 👽 Hi there, I'm Yana Glad
 
-🎓 I am a student at Mirea Technological University and Android Developer in Tinkoff!  
+<img src = "https://steemitimages.com/DQmYugUe1xwjHWAFiyhtLfQ84nejiopJ7YMBogoUFWbUypB/Feb_06_2018_17_01_08.0.gif?size=400x255&quality=96&sign=9b96f029c0bbc43631aac4a385a528b0&type=album"/>
+ 
+🎓 Student at Mirea Technological University 
+
+💻 Android Developer in Tinkoff
  
 🚀 Enjoy DeepSpace app for people who are into space! 
 Download it now with QR code: 
