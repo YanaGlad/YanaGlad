@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 - [Gradient Optimization](https://github.com/YanaGlad/GradientLinearRegressionOptimization) - Gradient optimization for Linear Regression
 
 - [Fintech Messenger](https://github.com/YanaGlad/FintechMessenger) - Messenger using custom views
- 
 
 - [Guice Example](https://github.com/YanaGlad/GuiceExample) - A good example of using Google Guice 
 
