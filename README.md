@@ -2,7 +2,7 @@
 
 <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56"/>
  
-🎓 Student at Mirea Technological University 
+🎓 Student at Mirea Technological University AI Faculty
 
 💻 Android Developer in Tinkoff
  
