@@ -1,6 +1,9 @@
-## 👽 Hi there, I'm Yana Glad
+
 
 <p align="center">
+    <a>
+       ## 👽 Hi there, I'm Yana Glad
+     </a>
     <a href="[https://vk.com/YanaGlad]( "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif)">
         <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
     </a>
