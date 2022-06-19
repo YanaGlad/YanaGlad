@@ -2,6 +2,12 @@
 
 <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center"/>
 
+<p align="center">
+    <a href="[https://vk.com/YanaGlad]( "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif)">
+        <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
+    </a>
+</p>
+
 🎓 Student at Mirea Technological University AI Faculty
 
 💻 Android Developer in Tinkoff
@@ -10,7 +16,7 @@
 Download it now with QR code: 
 
 <p align="center">
-    <a href="[https://vk.com/cyberfox21](https://sun9-15.userapi.com/impg/sVVu9D9iORgJreC_0ijIys9LA4POLy2F3wAo0Q/FXrI7YgJn40.jpg)">
+    <a href="[https://vk.com/YanaGlad](https://sun9-15.userapi.com/impg/sVVu9D9iORgJreC_0ijIys9LA4POLy2F3wAo0Q/FXrI7YgJn40.jpg)">
         <img src = "https://sun9-15.userapi.com/impg/sVVu9D9iORgJreC_0ijIys9LA4POLy2F3wAo0Q/FXrI7YgJn40.jpg?size=180x180&quality=96&sign=9b96f029c0bbc43631aac4a385a528b0&type=album" align="center" align="center">
     </a>
 </p>
