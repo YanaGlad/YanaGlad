@@ -47,7 +47,6 @@ Download it now with QR code:
 Here are some ideas to get you started:
  Developments stack :
 
-
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
 
 - [CatUniverse](https://github.com/YanaGlad/CatUniverse) - Game made with own engine. Game engine can be used as a separate component for creating other games. You can play 3 types of levels : time, strategy and maths. 
