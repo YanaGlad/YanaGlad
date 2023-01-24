@@ -26,7 +26,7 @@ Download it now with QR code:
 
 ### How to reach me: 
 
-[<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/YanaGlad) [<img src = "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/yanaglad12) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/YanaGlad121) 
+[<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/YanaGlad) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/YanaGlad121) 
  
 <!--
 [<img src = "https://psv4.userapi.com/c235131/u444994781/docs/d6/71b50289818c/themo.png?extra=3KoV2XjJ33yt3gGz41_wGPXQ9fgT4JFP8GngGaczhQ882EAoFIskYQTBk-G3fnidVvmXlIUbydR8T88CGtDIaY_ikDhwwwlzxbJNCRpfijwAkKMMY7TT-lgeUF7UDM3YdRubw_-6mjZpxn3dSmd54FcPjWI"/>](https://github.com/sabudilovskiy/MathUltra) 
@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanaGlad&show_icons=true&theme=radical)
 
-
+ [<img src = "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/yanaglad12)
 -->
