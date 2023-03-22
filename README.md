@@ -43,7 +43,7 @@ Download it now with QR code:
 
 
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!!!!! CHANGE README 
+
 Here are some ideas to get you started:
  Developments stack :
 
