@@ -46,6 +46,7 @@ Download it now with QR code:
 **YanaGlad/YanaGlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
  Developments stack :
 
 - [KoshelOK](https://github.com/YanaGlad/KoshelOK) - Team project for Tinkoff Sirius educational program. Smart wallet which allows people to watch their expenses and income. User can create multiple wallets with various currencies (currency exchange enabled), make transactions and limits for each wallet.  
