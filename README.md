@@ -1,4 +1,3 @@
-
 ## 👽 Hi there, I'm Yana Glad
 I love studying, travelling, astronomy, science, currently I am building a startup and learning kotlin multiplatform
 <p align="center">
