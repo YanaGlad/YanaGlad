@@ -5,7 +5,6 @@ I love studying, travelling, astronomy, science, currently I am building a start
         <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
     </a>
 </p>
-
 💻 Android Developer in Tinkoff
  
 🚀 Enjoy DeepSpace app for people who are into space! 
