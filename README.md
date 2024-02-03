@@ -6,9 +6,7 @@ I love studying, travelling, astronomy, science, currently I am building a start
     </a>
 </p>
 
-🎓 Student at Mirea Technological University AI Faculty
-
-💻 Middle Android Developer in Tinkoff
+💻 Android Developer in Tinkoff
  
 🚀 Enjoy DeepSpace app for people who are into space! 
 Download it now with QR code: 
