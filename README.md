@@ -1,5 +1,4 @@
 ## 👽 Hi there, I'm Yana Glad
-I love studying, travelling, astronomy, science, currently I am building a startup and learning kotlin multiplatform
 <p align="center">
     <a href="[https://vk.com/YanaGlad]( "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif)">
         <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
@@ -8,7 +7,6 @@ I love studying, travelling, astronomy, science, currently I am building a start
 
 💻 Android Developer
 
- 
 ## 🔥 Developments stack: 
 
  
