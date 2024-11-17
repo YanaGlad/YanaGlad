@@ -4,7 +4,6 @@
         <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
     </a>
 </p>
-
 💻 Android Developer
 
 ## 🔥 Developments stack: 
