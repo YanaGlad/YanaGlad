@@ -1,4 +1,4 @@
-## 👽 Hi there, I'm Yana Glad
+## Yana Gladkikh, Android Developer
 <p align="center">
     <a href="[https://vk.com/YanaGlad]( "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif)">
         <img src = "https://thumbs.gfycat.com/WildNegativeHatchetfish-max-14mb.gif?size=100x56" align="center" align="center">
@@ -6,14 +6,11 @@
 </p>
 💻 Android Developer
 
-## 🔥 Developments stack: 
-
- 
-[<img src = "https://sun9-86.userapi.com/impg/51GBeFWDETjbj0ckkdN2MYs4K3wupIFRXCu9OA/xO3ssHUc7lw.jpg?size=224x109&quality=96&sign=130f2ca4c6b14b9fbbbcea6281419161&type=album"/>](https://github.com/BrightOS/DeepSpace) [<img src = "https://sun9-36.userapi.com/impg/tBTzBY90OhC-ANf1IJBHsO-zefbHcBAoyODZ5A/hY1hM59YZkU.jpg?size=209x109&quality=96&sign=853da96953bfa3dc5cf9fd95b2d4f336&type=album"/>](https://github.com/YanaGlad/KoshelOK) [<img src = "https://sun9-78.userapi.com/impg/zaQ9gXPaooRnk2LR0pRTb9mwCNTLG1JuQ1H32w/IQIo9Soqo-o.jpg?size=229x109&quality=96&sign=73d4a65d731fc3dd81aa3d531272cd14&type=album"/>](https://github.com/YanaGlad/CatUniverse) [<img src = "https://sun9-83.userapi.com/impg/TmYayDSYOk5Jg6hYnJ-A41yY5qr1B01rD27tPA/bHpTgaaiJ1E.jpg?size=224x109&quality=96&sign=af1a8bc33a18375af0d8de56423ecf83&type=album"/>](https://github.com/Giksengik/Metrix) [<img src = "https://sun9-59.userapi.com/impg/lHEzQve0h9lFkNyxwGVi7t6JR0NT-gE0-Xo7BA/RpS14LJfWHY.jpg?size=224x109&quality=96&sign=7880642fce0df92252f8bd67d2f9edca&type=album"/>](https://github.com/YanaGlad/FintechMessenger) 
+Android Developer with 5+ years of experience building scalable, high-load mobile applications in the fintech and e-commerce sectors (Tinkoff Bank, Avito). Was involved in developing a critical sector of the Tinkoff Bank mobile application with an audience of over 40 million users in the CIS region. Currently working in Avito which is the most visited online classifieds platform in the world being a high efficient android developer in a team of new cars listing (cars directly from official dealers). Proven track record in improving product KPIs, leading features used by millions, mentoring, and contributing to engineering culture.
 
 ### How to reach me: 
 
-[<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/YanaGlad) [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/YanaGlad121) 
+[<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/YanaGlad121) 
  
 <!--
 [<img src = "https://psv4.userapi.com/c235131/u444994781/docs/d6/71b50289818c/themo.png?extra=3KoV2XjJ33yt3gGz41_wGPXQ9fgT4JFP8GngGaczhQ882EAoFIskYQTBk-G3fnidVvmXlIUbydR8T88CGtDIaY_ikDhwwwlzxbJNCRpfijwAkKMMY7TT-lgeUF7UDM3YdRubw_-6mjZpxn3dSmd54FcPjWI"/>](https://github.com/sabudilovskiy/MathUltra) 
